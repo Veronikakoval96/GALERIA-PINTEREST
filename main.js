@@ -1,2 +1,2 @@
-import "./src/header/header"
-import "./src/body/body"
+import "./src/header/header.js"
+import "./src/body/body.js"
