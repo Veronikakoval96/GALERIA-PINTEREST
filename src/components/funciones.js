@@ -18,7 +18,7 @@ export const renderizado = (imagenes) => {
         const boton1 = document.createElement("button")
         boton1.classList.add("boton1")
         const img1 = document.createElement("img")
-        img1.src = "../img/corazon.png"
+        img1.src = "./img/corazon.png"
         img1.alt = "Imagen Corazon"
         img1.classList.add("corazon")
         const texto1 = document.createElement("p")
@@ -29,7 +29,7 @@ export const renderizado = (imagenes) => {
         const boton2 = document.createElement("button")
         boton2.classList.add("boton1")
         const img2 = document.createElement("img")
-        img2.src = "../img/camara.png"
+        img2.src = "./img/camara.png"
         img2.alt = "Imagen Camara"
         img2.classList.add("camara")
         const texto2 = document.createElement("p")
